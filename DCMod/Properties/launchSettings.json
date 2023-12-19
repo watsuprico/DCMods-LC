@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "PersistentShip": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    },
+    "Lethal Company": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Lethal Company\\LethalCompany.exe",
+      "workingDirectory": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Lethal Company",
+      "nativeDebugging": true
+    }
+  }
+}

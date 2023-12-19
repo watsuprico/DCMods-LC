@@ -1,0 +1,28 @@
+item name: unlockable type
+alreadyUnlocked: true for defaults!
+hasBeenUnlockedByPlayer: true if purchased (does not make alreadyUnlocked true)
+
+0]	Orange suit: 		0 - prefab
+1]	Green suit: 		0 - prefab
+2]	Hazard suit:		0 - prefab
+3]	Pajama suit:		0 - prefab
+4]	CozyLights:			1 - prefab
+5]	Teleporter:			1 - prefab
+6]	Television:			1 - prefab
+7]	Cupboard:			1 - NOT prefab
+8]	File Cabinet:		1 - NOT prefab
+9]	Toilet:				1 - prefab
+10]	Shower:				1 - prefab
+11]	Light switch:		1 - NOT prefab
+12]	Record player:		1 - prefab
+13]	Table:				1 - prefab
+14]	Romantic table:		1 - prefab
+15]	Bunkbeds:			1
+16]	Terminal:			1
+17]	Signal translator:	1 - prefab
+18]	Loud horn:			1 - prefab
+19]	Inverse Teleporter:	1 - prefab
+20]	JackOLantern:		1 - prefab
+21]	Welcome mat:		1 - prefab
+22]	Goldfish:			1 - prefab
+23]	Plushie pajama man:	1 - prefab

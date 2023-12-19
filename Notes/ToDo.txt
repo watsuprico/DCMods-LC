@@ -1,0 +1,6 @@
+[ ] adjust stamina
+[ ] adjust player death token deductions
+[x] fix light switch (?)
+[x] turn the volume down (?)
+[x] each audio source needs to have it's own VolumeControl type class to fix the damn tooltips and to implement the "only update what I'm looking at"
+	-> change from lists in the VolumeControl* class to singles, then have unique VolumeControl instance per object
